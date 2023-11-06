@@ -14,3 +14,8 @@ https://github.com/boiidevelopment/boii-chiphack
 </br>
 </br>
 You will have to setup your own ps dispatch alert for the hack
+</br>
+
+```
+	['camerhacker'] 			 	 = {['name'] = 'camerhacker', 			  		['label'] = 'Hackaparaat', 				['weight'] = 1000, 		['type'] = 'item', 		['image'] = 'Hackaparaat.png', 			['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	   	['combinable'] = nil,   ['description'] = ''},
+```
